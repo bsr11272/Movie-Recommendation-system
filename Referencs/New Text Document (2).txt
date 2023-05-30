@@ -1,0 +1,10 @@
+https://towardsdatascience.com/introduction-to-recommender-systems-1-971bd274f421
+https://medium.com/web-mining-is688-spring-2021/content-based-movie-recommendation-system-72f122641eab#:~:text=Content%20Based%20Recommendation%20System%3A%20It,a%20show%20similar%20to%20it.
+https://towardsdatascience.com/how-to-build-from-scratch-a-content-based-movie-recommender-with-natural-language-processing-25ad400eb243
+https://towardsdatascience.com/how-to-build-a-movie-recommendation-system-67e321339109
+https://www.mygreatlearning.com/blog/masterclass-on-movie-recommendation-system/
+https://medium.com/@goktugdagi/association-rule-2c35d700901
+https://medium.com/@toprak.mhmt/content-based-recommender-system-bdfc60b1bee8
+https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00425-x
+https://towardsdatascience.com/introduction-to-two-approaches-of-content-based-recommendation-system-fc797460c18c
+https://www.analyticsvidhya.com/blog/2020/08/recommendation-system-k-nearest-neighbors/
